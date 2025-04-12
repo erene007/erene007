@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erene007
+- 👋 Hi, I’m Shripad
 - 👀 I’m interested in Building new apps and ai project
 - 🌱 I’m currently learning ai programing
 - 💞️ I’m looking to collaborate on so many progect
